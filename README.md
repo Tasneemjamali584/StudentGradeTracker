@@ -1,5 +1,5 @@
 # StudentGradeTracker
-A java_based student grade tracking
+A java_based application for student grade tracking
 ## Features
 -Add student name and grade
 -Calculate average grade
